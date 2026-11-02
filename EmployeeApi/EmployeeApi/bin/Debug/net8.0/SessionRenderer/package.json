@@ -1,0 +1,18 @@
+{
+  "name": "sessionrenderer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "esbuild replay-entry.js --bundle --outfile=replay-bundle.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@rrweb/replay": "^2.2.0",
+    "esbuild": "^0.28.2",
+    "playwright": "^1.64.1"
+  }
+}

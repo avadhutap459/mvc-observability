@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Observability\\API\\EmployeeApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\controllers\\sessionvideocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\controllers\\sessionvideocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\services\\sessionreplayorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\services\\sessionreplayorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\controllers\\sessionchunkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\controllers\\sessionchunkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\services\\s3sessionrecordingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\services\\s3sessionrecordingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\services\\ffmpegvideoconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\services\\ffmpegvideoconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\controllers\\sessioncapturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\controllers\\sessioncapturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\sessionrenderer\\replay-entry.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\sessionrenderer\\replay-entry.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\sessionrenderer\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\sessionrenderer\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\sessionrenderer\\render.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\sessionrenderer\\render.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\sessionrenderer\\test-playwright.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\sessionrenderer\\test-playwright.mjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\services\\telemetryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\services\\telemetryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|e:\\observability\\api\\employeeapi\\employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B62B9C4-C908-4E27-ADCE-72E5311CA5C4}|EmployeeApi\\EmployeeApi.csproj|solutionrelative:employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SessionVideoController.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Controllers\\SessionVideoController.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Controllers\\SessionVideoController.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Controllers\\SessionVideoController.cs",
+              "RelativeToolTip": "EmployeeApi\\Controllers\\SessionVideoController.cs",
+              "ViewState": "AgIAAPAAAAAAAAAAAAAkwPwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:44:25.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "render.mjs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\SessionRenderer\\render.mjs",
+              "RelativeDocumentMoniker": "EmployeeApi\\SessionRenderer\\render.mjs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\SessionRenderer\\render.mjs",
+              "RelativeToolTip": "EmployeeApi\\SessionRenderer\\render.mjs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAqwM0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-01T12:35:16.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "S3SessionRecordingService.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Services\\S3SessionRecordingService.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Services\\S3SessionRecordingService.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Services\\S3SessionRecordingService.cs",
+              "RelativeToolTip": "EmployeeApi\\Services\\S3SessionRecordingService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADoCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T02:38:15.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Program.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Program.cs",
+              "RelativeToolTip": "EmployeeApi\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T19:20:36.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SessionChunkController.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Controllers\\SessionChunkController.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Controllers\\SessionChunkController.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Controllers\\SessionChunkController.cs",
+              "RelativeToolTip": "EmployeeApi\\Controllers\\SessionChunkController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:16:29.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionReplayOrchestrator.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Services\\SessionReplayOrchestrator.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Services\\SessionReplayOrchestrator.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Services\\SessionReplayOrchestrator.cs",
+              "RelativeToolTip": "EmployeeApi\\Services\\SessionReplayOrchestrator.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAkwLUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T02:11:07.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeApi\\appsettings.json",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\appsettings.json",
+              "RelativeToolTip": "EmployeeApi\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-27T19:20:07.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "replay-entry.js",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\SessionRenderer\\replay-entry.js",
+              "RelativeDocumentMoniker": "EmployeeApi\\SessionRenderer\\replay-entry.js",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\SessionRenderer\\replay-entry.js",
+              "RelativeToolTip": "EmployeeApi\\SessionRenderer\\replay-entry.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-01T12:34:03.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionCaptureController.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Controllers\\SessionCaptureController.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Controllers\\SessionCaptureController.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Controllers\\SessionCaptureController.cs",
+              "RelativeToolTip": "EmployeeApi\\Controllers\\SessionCaptureController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T02:38:17.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "package.json",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\SessionRenderer\\package.json",
+              "RelativeDocumentMoniker": "EmployeeApi\\SessionRenderer\\package.json",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\SessionRenderer\\package.json",
+              "RelativeToolTip": "EmployeeApi\\SessionRenderer\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-01T12:25:39.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "test-playwright.mjs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\SessionRenderer\\test-playwright.mjs",
+              "RelativeDocumentMoniker": "EmployeeApi\\SessionRenderer\\test-playwright.mjs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\SessionRenderer\\test-playwright.mjs",
+              "RelativeToolTip": "EmployeeApi\\SessionRenderer\\test-playwright.mjs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-01T12:30:45.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FfmpegVideoConverter.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Services\\FfmpegVideoConverter.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Services\\FfmpegVideoConverter.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Services\\FfmpegVideoConverter.cs",
+              "RelativeToolTip": "EmployeeApi\\Services\\FfmpegVideoConverter.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T01:42:07.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TelemetryService.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Services\\TelemetryService.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Services\\TelemetryService.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Services\\TelemetryService.cs",
+              "RelativeToolTip": "EmployeeApi\\Services\\TelemetryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T01:59:11.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Controllers\\EmployeesController.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeApi\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T19:19:19.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T19:19:00.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeApi\\Models\\Employee.cs",
+              "ToolTip": "E:\\Observability\\API\\EmployeeApi\\EmployeeApi\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeApi\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T19:18:49.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

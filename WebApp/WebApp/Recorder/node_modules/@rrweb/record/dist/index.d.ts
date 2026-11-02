@@ -1,0 +1,5 @@
+import { record } from 'rrweb';
+
+export { record }
+
+export { }
